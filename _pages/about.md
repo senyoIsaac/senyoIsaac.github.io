@@ -18,7 +18,7 @@ Feel free to explore my projects and get in touch!
 
 ## Structures Research Areas 🏗️
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s; margin-bottom: 20px;">
   <a href="#" style="text-decoration: none; color: inherit;">
@@ -36,7 +36,7 @@ Feel free to explore my projects and get in touch!
 
 ## Transportation Research Areas 🚦
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s; margin-bottom: 20px;">
   <a href="#" style="text-decoration: none; color: inherit;">
