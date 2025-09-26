@@ -1,84 +1,90 @@
 ---
 permalink: /
-title: "Isaac Senyoh"
+title: "Nathan David Obeng-Amoako"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
-social_image: "https://senyoIsaac.github.io/images/headshot.jpeg"
+  - /about/
+  - /about.html
+social_image: "https://natdave.github.io/images/headshot.jpg"
 ---
 
-Hello! I am **Isaac Senyoh**, a Civil Engineer with a passion for integrating **advanced computational methods, machine learning, and structural health monitoring** into the field of civil infrastructure. This site showcases my projects, research, and professional experience in areas such as structural dynamics, finite element analysis, smart connected communities, and data-driven engineering design.
+NatDave is a transportation researcher and engineer dedicated to shaping the next generation of intelligent, efficient, and sustainable mobility systems. His work spans traffic signal optimization, AI-powered transportation solutions, active and sustainable transportation systems, and transit operations management, ensuring cities are more connected, resilient, and people-friendly.
 
-Here you will find my portfolio of work, including code repositories, research papers, and application demos. My aim is to share knowledge, collaborate with like-minded professionals, and contribute to innovative solutions in engineering and technology.
+**Fun facts about NatDave**:
+NatDave is a cycling enthusiast! He has biked thousands of miles in the USA and hundreds more in the Netherlands, Canada, France, the UK, and other Western European countries. Also, NatDave loves to play classical music on his piano during his spare time.
 
-Feel free to explore my projects and get in touch!
-
----
-
-## Structures Research Areas 🏗️
+## Research Areas  
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s; margin-bottom: 20px;">
-  <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/asphalt.jpg" alt="Asphalt Pavement" style="width: 100%; height: auto;">
-    <div style="padding: 15px;">
-      <h3 style="margin: 0;">Asphalt Pavement Temperature Prediction Model Validation</h3>
-      <p style="font-size: 14px; color: #555;">Focusing on material science and structural integrity modeling for pavement systems.</p>
-    </div>
-  </a>
+<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://natdave.github.io/images/about/tsp.jpg" alt="Traffic Signal Optimization" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">Traffic Signal Optimization & Smart Transit Priority</h3>
+      <p style="font-size: 14px; color: #555;">Enhancing traffic flow and public transit reliability with smart signal control strategies.</p>
+    </div>
+  </a>
 </div>
 
+<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://natdave.github.io/images/about/ai.png" alt="AI & ML in Transportation" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">AI & ML/DL in Transportation</h3>
+      <p style="font-size: 14px; color: #555;">Applying machine learning and AI to real-time traffic management and mobility solutions.</p>
+    </div>
+  </a>
+</div>
+
+<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://natdave.github.io/images/about/bike.jpg" alt="Active Transportation & Sustainability" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">Active Transportation & Sustainability</h3>
+      <p style="font-size: 14px; color: #555;">Promoting cycling and sustainable mobility to create healthier, eco-friendly communities.</p>
+    </div>
+  </a>
+</div>
+
+<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://natdave.github.io/images/about/transit.jpg" alt="Transit Operations & Management" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">Transit Operations & Management</h3>
+      <p style="font-size: 14px; color: #555;">Improving transit efficiency, reliability, and service planning for better urban mobility.</p>
+    </div>
+  </a>
+</div>
 </div>
 
 ---
 
-## Transportation Research Areas 🚦
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s; margin-bottom: 20px;">
-  <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/asphalt.jpg" alt="Traffic Signal Optimization" style="width: 100%; height: auto;">
-    <div style="padding: 15px;">
-      <h3 style="margin: 0;">Smart Signal Control Strategies</h3>
-      <p style="font-size: 14px; color: #555;">Enhancing traffic flow and public transit reliability with optimized signal timing and adaptive systems.</p>
-    </div>
-  </a>
-</div>
-
-<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s; margin-bottom: 20px;">
-  <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/ai.png" alt="AI & ML in Transportation" style="width: 100%; height: auto;">
-    <div style="padding: 15px;">
-      <h3 style="margin: 0;">AI & ML/DL in Transportation</h3>
-      <p style="font-size: 14px; color: #555;">Applying machine learning and AI to real-time traffic management and mobility solutions.</p>
-    </div>
-  </a>
-</div>
-
-</div>
-
----
-
-## Education 🎓
+## Education  
 
 | Degree | Institution | Location | Year |
 |---------|----------------|------------|------|
-| **B.Sc. in Civil Engineering** | Kwame Nkrumah University of Science and Technology (KNUST) | Kumasi, Ghana | 2024 |
+| **Ph.D. in Transportation Engineering** *(Expected)* | Northeastern University | Boston, MA, USA | 2028 |
+| **M.S. in Transportation Engineering** | Northeastern University | Boston, MA, USA | 2025 |
+| **B.Sc. in Civil Engineering** | Kwame Nkrumah University of Science and Technology (KNUST) | Kumasi, Ghana | 2022 |
 
 ---
 
-## My CV 📄
-**[View Full CV](https://senyoIsaac.github.io/files/Isaac_Senyoh_CV.pdf)**
+## Certifications  
+
+| Certification | Issuing Authority | Verification |
+|-----------------|---------------------|---------------|
+| **Engineer-in-Training (EIT) / FE Civil** | Massachusetts Board of Registration of Professional Engineers and Land Surveyors | [Verify Credential](https://www.credly.com/badges/35f81516-e8ec-40a4-ad6c-beb2d54a2894) |
 
 ---
-## Connect with Me 🤝
+
+## My CV  
+**[View Full CV](https://natdave.github.io/files/NatDaveCV.pdf)**
+
+## Connect with Me  
 
 | Platform | Link |
 |------------|--------|
-| **GitHub** | [github.com/senyohIsaac](https://github.com/senyoIsaac) |
-| **LinkedIn** | [linkedin.com/in/senyohIsaac](https://www.linkedin.com/in/isaac-senyoh-4247a9220/) |
-| **Email** | [isaacesenyoh9@gmail.com](mailto:isaacsenyoh9@gmail.com) |
----
+| **GitHub** | [github.com/natdave](https://github.com/natdave) |
+| **LinkedIn** | [linkedin.com/in/natdave](https://www.linkedin.com/in/natdave/) |
+| **Email** | [natdave545@gmail.com](mailto:natdave545@gmail.com) |
