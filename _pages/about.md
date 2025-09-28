@@ -56,6 +56,8 @@ Feel free to explore my projects and get in touch!
   </a>
 </div>
 
+</div>
+
 ---
 
 ## Education  
@@ -77,3 +79,5 @@ Feel free to explore my projects and get in touch!
 | **GitHub** | [github.com/senyoIsaac](https://github.com/senyoIsaac) |
 | **LinkedIn** | [linkedin.com/in/isaac-senyoh](https://www.linkedin.com/in/isaac-senyoh-4247a9220/) |
 | **Email** | [isaacsenyoh9@gmail.com](mailto:isaacsenyoh9@gmail.com) |
+
+---
