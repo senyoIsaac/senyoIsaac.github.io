@@ -22,7 +22,7 @@ Feel free to explore my projects and get in touch!
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/tsp.jpg" alt="Cocrete fck & Bayesian Network" style="width: 100%; height: auto;">
+    <img src="https://senyoIsaac.github.io/images/about/Bayesian.jpg" alt="Concrete fck & Bayesian Network" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">Cocrete fck & Bayesian Network</h3>
       <p style="font-size: 14px; color: #555;">Evaluation and Performance Modelling of Concrete Compressive Strength using Bayesian Networks: A Case Study in Ghana..</p>
@@ -38,7 +38,7 @@ Feel free to explore my projects and get in touch!
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaacgithub.io/images/about/ai.png" alt="AI & ML in Transportation" style="width: 100%; height: auto;">
+    <img src="https://senyoIsaac.github.io/images/about/ai.png" alt="AI & ML in Transportation" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">AI & ML/DL in Transportation</h3>
       <p style="font-size: 14px; color: #555;">Applying machine learning and AI to real-time traffic management and mobility solutions.</p>
@@ -50,7 +50,7 @@ Feel free to explore my projects and get in touch!
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/asphalt.jpg" alt="Asphalt Pavement Temperature Local Model Evaluation" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
-      <h3 style="margin: 0;">Pridictive Models & Evaluation</h3>
+      <h3 style="margin: 0;">Predictive Models & Evaluation</h3>
       <p style="font-size: 14px; color: #555;">Asphalt Pavement Temperature Local Model Evaluation.</p>
     </div>
   </a>
