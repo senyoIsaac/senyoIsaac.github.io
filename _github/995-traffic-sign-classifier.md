@@ -5,4 +5,5 @@ excerpt: "This project focuses on automated traffic sign recognition using a dee
 collection: github
 ---
 
-You can access the GitHub repository for this project [here](https://github.com/NatDave/traffic-sign-classifier).<br/><br/><img src='/images/gtsrb.png'>
+You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/traffic-sign-classifier).<br/><br/><img src='/images/gtsrb.png'>
+
