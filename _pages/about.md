@@ -22,7 +22,7 @@ Feel free to explore my projects and get in touch!
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/Bayesian.jpg" alt="Concrete fck & Bayesian Network" style="width: 100%; height: auto;">
+    <img src="https://senyoIsaac.github.io/images/about/Bayesian.png" alt="Concrete fck & Bayesian Network" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">Cocrete fck & Bayesian Network</h3>
       <p style="font-size: 14px; color: #555;">Evaluation and Performance Modelling of Concrete Compressive Strength using Bayesian Networks: A Case Study in Ghana..</p>
