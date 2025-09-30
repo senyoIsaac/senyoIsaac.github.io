@@ -5,8 +5,6 @@ excerpt: "𝖨 𝖾𝗑𝗉𝗅𝗈𝗋𝖾𝖽 𝗍𝗁𝖾 𝖼𝗈𝗆𝖻�
 collection: github
 ---
 
-You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/cracks/).
-
 ## Crack Prediction Demonstration
 
 **{% raw %}**
@@ -14,5 +12,8 @@ You can access the GitHub repository for this project [here](https://github.com/
   Your browser does not support the video tag.
 </video>
 **{% endraw %}**
+
+
+You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/cracks/).
 
 ---
