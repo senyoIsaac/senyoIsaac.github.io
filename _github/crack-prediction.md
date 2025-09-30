@@ -9,7 +9,10 @@ You can access the GitHub repository for this project [here](https://github.com/
 
 ## Crack Prediction Demonstration
 
-<video **controls** **width="100%"** src="/videos/crack.mp4"></video>
+**{% raw %}**
+<video controls width="100%" src="/videos/crack.mp4">
+  Your browser does not support the video tag.
+</video>
+**{% endraw %}**
 
 ---
-
