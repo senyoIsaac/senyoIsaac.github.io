@@ -7,11 +7,9 @@ collection: github
 
 You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/cracks/).
 
-<br>
-
 ## Crack Prediction Demonstration
 
-<video **controls** **width="100%"** src="/videos/crack.mp4" **poster="/images/crack-poster.jpg"**></video>
+<video **controls** **width="100%"** src="/videos/crack.mp4"></video>
 
 ---
 
