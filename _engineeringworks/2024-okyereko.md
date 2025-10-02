@@ -9,3 +9,4 @@ date: 2024-09-04
 location: "Kasoa, Ghana"
 ---
 Designed bridge girders to Eurocode Standards. Provided structural detailing and rebar quantities using AutoCAD and custom plugins.
+
