@@ -13,16 +13,15 @@ location: "Kasoa, Ghana"
 
 
 
-<div style="text-align: center;">
+<div style="text-align: right;">
     <p>
-       As part of the Kasoa-Winneba Rd Dualization Project, my responsibility was to provide a rendered project overview to communicate the aesthetic and overall idea of how the project will be when completed. 
-       Additionaly, estimate the required number of precast panels needed for the project.
+       As part of the Kasoa-Winneba Road Dualization Project, my role involved rendering a detailed project overview to communicate the final aesthetic and design concept. Additionally, I was responsible for estimating the total quantity of precast panels required for the construction.
     </p>
 </div>
 
 <!-- Desktop: Embedded PDF -->
 <div class="pdf-container">
-    <iframe src="https://senyoIsaac.github.io/files/AwutuRendered.pdf" width="90%" height="700px" style="border: 1px solid #ccc; border-radius: 5px;">
+    <iframe src="https://senyoIsaac.github.io/files/AwutuRendered.pdf" width="100%" height="500px" style="border: 1px solid #ccc; border-radius: 5px;">
         Your browser does not support PDFs.
         Please <a href="https://senyoIsaac.github.io/files/AwutuRendered.pdf">download the PDF here</a>.
     </iframe>
