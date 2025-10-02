@@ -13,7 +13,7 @@ location: "Kasoa, Ghana"
 
 
 
-<div style="text-align: right;">
+<div style="text-align: justify;">
     <p>
        As part of the Kasoa-Winneba Road Dualization Project, my role involved rendering a detailed project overview to communicate the final aesthetic and design concept. Additionally, I was responsible for estimating the total quantity of precast panels required for the construction.
     </p>
