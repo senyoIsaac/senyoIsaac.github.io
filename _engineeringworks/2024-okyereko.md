@@ -13,9 +13,8 @@ location: "Kasoa, Ghana"
     <p>
     While completing my degree, I freelanced on a bridge project, honing my ability to balance academic and professional commitments. My role involved detailing 20-meter girders to translate the senior engineer's designs into clear instructions for on-site workers and stakeholders.
     <p>
-</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: right;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
@@ -30,9 +29,9 @@ location: "Kasoa, Ghana"
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/okyerekoMe.jpeg" alt="3D Beam-Reinforcement Detailing On-site" style="width: 100%; height: auto;">
+    <img src="https://senyoIsaac.github.io/images/okyerekoMe.jpeg" alt="3D Beam-Reinforcement Detailing On-site" style="width: 100%; height: 70%;">
     <div style="padding: 15px;">
-      <h3 style="margin: 0;">3D Beam-Reinforcement Detailing On-site</h3>
+      <h3 style="text-align: left;">3D Beam-Reinforcement Detailing On-site</h3>
       <p style="font-size: 14px; color: #555;">A picture of me standing by a physical implemetation of my 3D Beam Reinforcement Model..</p>
     </div>
   </a>
