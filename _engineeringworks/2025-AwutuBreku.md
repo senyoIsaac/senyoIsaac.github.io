@@ -33,11 +33,11 @@ location: "Kasoa, Ghana"
         <a href="https://senyoIsaac.github.io/files/AwutuRendered.pdf" target="_blank" 
            style="font-size: 18px; padding: 10px 20px; background-color: #007bff; color: white; 
                   text-decoration: none; border-radius: 5px;">
-            📄 View CV
+            📄 View Document
         </a>
     </div>
     <div style="text-align: center; margin-top: 10px;">
-        <p>If the CV does not open, <a href="https://senyoIsaac.github.io/files/AwutuRendered.pdf" download>click here to download</a>.</p>
+        <p>If the document does not open, <a href="https://senyoIsaac.github.io/files/AwutuRendered.pdf" download>click here to download</a>.</p>
     </div>
 </div>
 
