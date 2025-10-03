@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-Explore images and visuals from some of our events.
+Explore images and visuals of me, a journey in the making.
 
 <style>
   .gallery-section {
@@ -35,23 +35,15 @@ Explore images and visuals from some of our events.
 
 ---
 
-## Summer School
-Highlights from our exciting annual summer school program in The Netherlands.
+## 6-Months Labourer At NickSeth Construction Company
+Highlights of activities that shaped my engineering thoughts.
 
 <div class="gallery-section">
   <div class="gallery-title">2025</div>
   <div class="gallery-images">
     {% for i in (1..15) %}
-      <img src="/images/holland/2025_netherlands{{ i }}.jpg" alt="Summer School 2024 {{ i }}">
+      <img src="/images/NickSeth{{ i }}.jpg" alt="Labourer {{ i }}">
     {% endfor %}
   </div>
 </div>
 
-<div class="gallery-section">
-  <div class="gallery-title">2024</div>
-  <div class="gallery-images">
-    {% for i in (1..15) %}
-      <img src="/images/holland/2024_netherlands{{ i }}.jpg" alt="Summer School 2024 {{ i }}">
-    {% endfor %}
-  </div>
-</div>
