@@ -14,9 +14,8 @@ location: "Kasoa, Ghana"
     While completing my degree, I freelanced on a bridge project, honing my ability to balance academic and professional commitments. My role involved detailing 20-meter girders to translate the senior engineer's designs into clear instructions for on-site workers and stakeholders.
     <p>
 </div>
----
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: right;">
 
 <div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
