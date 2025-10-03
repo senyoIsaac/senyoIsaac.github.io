@@ -39,10 +39,10 @@ Explore images and visuals of me, a journey in the making.
 Highlights of activities that shaped my engineering thoughts.
 
 <div class="gallery-section">
-  <div class="gallery-title">2025</div>
+  <div class="gallery-title">2021</div>
   <div class="gallery-images">
     {% for i in (1..15) %}
-      <img src="/images/NickSeth{{ i }}.jpg" alt="Labourer {{ i }}">
+      <img src="/images/NickSeth/NickSeth{{ i }}.jpg" alt="Labourer {{ i }}">
     {% endfor %}
   </div>
 </div>
