@@ -8,13 +8,13 @@ redirect_from:
 social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 ---
 
-Knowledge in 21st century is multi-disciplinary. It is not enough to know one thing. With versatility and determination as driving keys, I am composing myself to be an intersection of engineering and technology so as to provide remedies to global issues and humanity's problems.
+In the 21st century, solving complex challenges demands a multi-disciplinary approach. My mission is to operate at the intersection of civil engineering and advanced technology, leveraging versatility and determination to address pressing global infrastructure problems.
 
-My name is **Isaac Senyoh**, a Graduate Civil Engineer with a passion for integrating **advanced computational methods, machine learning, and structural health monitoring** into the field of civil infrastructure.
+I am Isaac Senyoh, a Graduate Civil Engineer specializing in the integration of computational modeling, machine learning, and structural health monitoring. My work is dedicated to developing resilient and intelligent infrastructure systems.
 
-Here you will find my portfolio of work, including code repositories, research papers, and application demos. My aim is to share knowledge, collaborate with like-minded professionals, and contribute to innovative solutions in engineering and technology.
+Within this portfolio, you will find a collection of my projects, code repositories, and technical demonstrations. I am eager to share knowledge, collaborate on innovative solutions, and connect with fellow professionals.
 
-Feel free to explore my projects and get in touch!
+Thank you for visiting. I invite you to explore my work and welcome you to get in touch.
 
 ---
 
@@ -26,8 +26,8 @@ Feel free to explore my projects and get in touch!
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/resiliency.jpg" alt="Natural Hazards & Civil Infrastructure Resiliency" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
-      <h3 style="margin: 0;">Natural Hazards & Civil Infrastructure Resiliency</h3>
-      <p style="font-size: 14px; color: #555;">Nature is providing us a real-time failure data on our built environment.The blessings of disaster! How are we not learning from this? The real question I ask myself: How can emerging AI technologies optimize infrastructure system modelling and design to predict and prevent failures? </p>
+      <h3 style="margin: 0;">1. Natural Hazards & Civil Infrastructure Resiliency</h3>
+      <p style="font-size: 14px; color: #555;">Our built environment is continuously stress-tested by natural and operational forces, generating real-time data on its points of failure. Yet, the engineering field lacks robust methodologies to systematically learn from these events. Shouldn't we seek to address this gap by exploring the integration of emerging AI technologies into infrastructure lifecycle modeling? My primary objective is to create adaptive models that can not only simulate performance under extreme conditions but also actively predict and pinpoint potential failures, thereby informing more resilient and pre-emptive design paradigms.</p>
     </div>
   </a>
 </div>
@@ -36,8 +36,8 @@ Feel free to explore my projects and get in touch!
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/digital-twin.jpg" alt="Digital Twin Systems" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
-      <h3 style="margin: 0;">Digital Twin System In Civil Engineering</h3>
-      <p style="font-size: 14px; color: #555;">After the success of novel models for Research Interest No.1, how can we build a digital copy of our built infrastructure so as to monitor their performance against time?  </p>
+      <h3 style="margin: 0;">2. Digital Twin System In Civil Engineering</h3>
+      <p style="font-size: 14px; color: #555;">Building on the potential of AI to predict infrastructure failures, my research focuses on the next critical step: creating high-fidelity Digital Twins. I am interested in how we can build living digital copies of physical assets, fed by real-time sensor data, to continuously monitor their health, track degradation over time, and move from scheduled inspections to condition-based, predictive management </p>
     </div>
   </a>
 </div>
@@ -46,8 +46,18 @@ Feel free to explore my projects and get in touch!
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/crack.jpg" alt="Computer Vision Application In Structural Health Monitoring " style="width: 100%; height: auto;">
     <div style="padding: 15px;">
-      <h3 style="margin: 0;">Computer Vision Application In Structural Health Monitoring </h3>
-      <p style="font-size: 14px; color: #555;">Can alternative methods like video and image processing computer vision techinques such as digital image correlation be beneficial in the field of structural health monitoring? </p>
+      <h3 style="margin: 0;">3. Computer Vision Application In Structural Health Monitoring </h3>
+      <p style="font-size: 14px; color: #555;"> There are rising needs for a vision-based paradigm for structural health monitoring. Can we leverage techniques like digital image correlation (DIC) and video processing to extract high-fidelity, non-contact measurements of strain and displacement? The goal is to develop scalable systems for assessing structural integrity, particularly in situations where traditional sensors are impractical or insufficient. </p>
+    </div>
+  </a>
+</div>
+
+<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://senyoIsaac.github.io/images/about/crack.jpg" alt="Computer Vision Application In Structural Health Monitoring " style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">3. Carbon Reduction With Respect to Construction Work </h3>
+      <p style="font-size: 14px; color: #555;">A key research interest of mine is advancing circular economy principles in civil engineering through the systematic reuse of structural components from post-disaster or end-of-life infrastructure. This involves investigating the residual capacity and long-term performance of salvaged elements, such as steel props from ground retention substructures. The goal is to establish a scientific framework for their safe and reliable reintegration into new designs, thereby reducing waste and enhancing resource efficiencys? </p>
     </div>
   </a>
 </div>
@@ -64,16 +74,6 @@ Feel free to explore my projects and get in touch!
     <div style="padding: 15px;">
       <h3 style="margin: 0;">Cocrete fck & Bayesian Network</h3>
       <p style="font-size: 14px; color: #555;">Evaluation and Performance Modelling of Concrete Compressive Strength using Bayesian Networks: A Case Study in Ghana..</p>
-    </div>
-  </a>
-</div>
-
-<div style="width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <a href="#" style="text-decoration: none; color: inherit;">
-    <img src="https://senyoIsaac.github.io/images/about/ai.png" alt="AI & ML in Transportation" style="width: 100%; height: auto;">
-    <div style="padding: 15px;">
-      <h3 style="margin: 0;">AI & ML/DL in Transportation</h3>
-      <p style="font-size: 14px; color: #555;">Applying machine learning and AI to real-time traffic management and mobility solutions.</p>
     </div>
   </a>
 </div>
