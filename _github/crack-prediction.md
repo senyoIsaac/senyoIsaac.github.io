@@ -1,5 +1,5 @@
 ---
-title: "1.0 Crack Prediction & Segmentation"
+title: "2.0 Crack Prediction & Segmentation"
 permalink: /github/crack-prediction
 # Use the pipe | to start a multi-line string for the excerpt
 excerpt: |
