@@ -9,13 +9,13 @@ date: 2025-01-10
 location: "Kumasi, Ghana"
 ---
 
-<img src="/images/steel-design-crossection.jpeg" alt="Awutu-Breku Overpass Project Plan" style="float: left; margin-right: 20px; max-width: 300px; width: 30%;"/>
+<img src="/images/steel-design-crossection.jpeg" alt="steel" style="float: left; margin-right: 20px; max-width: 300px; width: 30%;"/>
 
 
 
 <div style="text-align: justify;">
     <p>
-       Under supervision, I performed analysis and design of 40M simply supported composite steel bridge.
+       Under supervision, I performed analysis and design of 40M simply supported composite steel bridge. Below is an extract of the drafting I did.
     </p>
 </div>
 
