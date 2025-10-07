@@ -22,7 +22,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/resiliency.jpg" alt="Natural Hazards & Civil Infrastructure Resiliency" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
@@ -32,7 +32,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
   </a>
 </div>
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/digital-twin.jpg" alt="Digital Twin Systems" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
@@ -42,7 +42,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
   </a>
 </div>
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/crack.jpg" alt="Computer Vision Application In Structural Health Monitoring " style="width: 100%; height: auto;">
     <div style="padding: 15px;">
@@ -52,7 +52,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
   </a>
 </div>
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/carbon-reduction.jpg" alt="Computer Vision Application In Structural Health Monitoring " style="width: 100%; height: auto;">
     <div style="padding: 15px;">
@@ -68,22 +68,22 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 ## Undergraduate Research(Structural & Transportation Engineering)🚦
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/Bayesian.png" alt="Concrete fck & Bayesian Network" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">Cocrete fck & Bayesian Network</h3>
-      <p style="font-size: 14px; color: #555;">Evaluation and Performance Modelling of Concrete Compressive Strength using Bayesian Networks: A Case Study in Ghana..</p>
+      <p style="font-size: 14px; color: #555;">Evaluation and Performance Modelling of Concrete Compressive Strength using Bayesian Networks: A Case Study in Ghana.</p>
     </div>
   </a>
 </div>
 
-<div style="width: 450px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/asphalt.jpg" alt="Asphalt Pavement Temperature Local Model Evaluation" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">Predictive Models & Evaluation</h3>
-      <p style="font-size: 14px; color: #555;">Asphalt Pavement Temperature Local Model Evaluation.</p>
+      <p style="font-size: 14px; color: #555;">Asphalt Pavement Temperature Local Model Evaluation. A study relevant in bridge engineering.</p>
     </div>
   </a>
 </div>
