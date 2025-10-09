@@ -1,5 +1,5 @@
 ---
-title: "1.0 Earthquake Response Spectrum"
+title: "3.0 Earthquake Response Spectrum"
 permalink: /github/structural_dynamics
 # Use the pipe | to start a multi-line string for the excerpt
 excerpt: |
