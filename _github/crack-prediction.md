@@ -10,5 +10,5 @@ excerpt: |
 collection: github
 ---
 
-You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/cracks/).
+You can access the GitHub repository for this project [here](https://github.com/senyoIsaac/cracks-prediction/).
 ---
