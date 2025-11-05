@@ -57,7 +57,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
     <img src="https://senyoIsaac.github.io/images/about/carbon-reduction.jpg" alt="Computer Vision Application In Structural Health Monitoring " style="width: 100%; height: auto;">
     <div style="padding: 15px;">
       <h3 style="margin: 0;">3. Carbon Reduction With Respect to Construction Work </h3>
-      <p style="font-size: 14px; color: #555;">A key research interest of mine is advancing circular economy principles in civil engineering through the systematic reuse of structural components from post-disaster or end-of-life infrastructure. This involves investigating the residual capacity and long-term performance of salvaged elements, such as steel props from ground retention substructures. The goal is to establish a scientific framework for their safe and reliable reintegration into new designs, thereby reducing waste and enhancing resource efficiencys? </p>
+      <p style="font-size: 14px; color: #555;">A key research interest of mine is advancing circular economy principles in civil engineering through the systematic reuse of structural components from post-disaster or end-of-life infrastructure. This involves investigating the residual capacity and long-term performance of salvaged elements, such as steel props from ground retention substructures. The goal is to establish a scientific framework for their safe and reliable reintegration into new designs, thereby reducing waste and enhancing resource efficiency. </p>
     </div>
   </a>
 </div>
