@@ -68,7 +68,7 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 ## Current Research Works(Structural Engineering)
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+<div style="width: 700px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
   <a href="#" style="text-decoration: none; color: inherit;">
     <img src="https://senyoIsaac.github.io/images/about/corrosion_depth.jpeg" alt="Surface morphology reconstruction of heavily corroded steel" style="width: 100%; height: auto;">
     <div style="padding: 15px;">
