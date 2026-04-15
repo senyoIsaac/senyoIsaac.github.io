@@ -65,6 +65,24 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 </div>
 
 ---
+## Current Research Works(Structural Engineering)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="width: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <img src="https://senyoIsaac.github.io/images/about/corrosion_depth.jpeg" alt="Surface morphology reconstruction of heavily corroded steel" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">Deep-Learning Surface Morphorlogy Reconstruction Of Heavily Corroded Steel</h3>
+      <p style="font-size: 14px; color: #555;">Surface morphology reconstruction of heavily corroded specimen.</p>
+    </div>
+  </a>
+</div>
+
+
+</div>
+
+
+---
 ## Undergraduate Research(Structural & Transportation Engineering)🚦
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
