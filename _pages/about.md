@@ -63,9 +63,8 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 </div>
 
 </div>
-
 ---
-## Current Research Works(Structural Engineering)
+## Current Academic Works.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="width: 700px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
@@ -81,6 +80,22 @@ Thank you for visiting. I invite you to explore my work and welcome you to get i
 
 </div>
 
+---
+## Current Academic Works.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="width: 700px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+  <a href="#" style="text-decoration: none; color: inherit;">
+    <video src="https://senyoIsaac.github.io/videos/sensor.mp4" controls style="width: 100%; height: auto;" alt="Arduino-based Real-Time telemetry "></video>
+    <div style="padding: 15px;">
+      <h3 style="margin: 0;">Signal Processing</h3>
+      <p style="font-size: 14px; color: #555;">Basics of electical wiring and sensor signal processing.</p>
+    </div>
+  </a>
+</div>
+
+
+</div>
 
 ---
 ## Undergraduate Research(Structural & Transportation Engineering)🚦
