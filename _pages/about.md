@@ -12,7 +12,7 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;700&display=swap');
 
 .page__content {
-  background: #f6f8fb;
+  background: linear-gradient(180deg, #f5f8fb 0%, #edf4f8 100%);
   color: #1d2b35;
 }
 
@@ -37,17 +37,18 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 }
 
 .engi-shell {
-  max-width: 1400px;
+  max-width: 1600px;
   margin: 0 auto;
-  padding: 24px 0 48px;
+  padding: 0 0 48px;
 }
 
 .hero-panel {
   display: grid;
-  grid-template-columns: 1.45fr 0.95fr;
-  gap: 28px;
+  grid-template-columns: 1.55fr 0.95fr;
+  gap: 30px;
   align-items: stretch;
-  margin: 14px 0 36px;
+  margin: 0 0 36px;
+  min-height: 74vh;
 }
 
 .hero-copy,
@@ -56,15 +57,18 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 .feature-card,
 .edu-card,
 .contact-card {
-  background: #ffffff;
-  border: 1px solid rgba(15, 23, 42, 0.06);
-  border-radius: 24px;
-  box-shadow: 0 12px 30px rgba(10, 18, 28, 0.08);
-  backdrop-filter: none;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(15, 23, 42, 0.05);
+  border-radius: 28px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+  backdrop-filter: blur(4px);
 }
 
 .hero-copy {
-  padding: 32px 30px 26px;
+  padding: 48px 42px 38px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .eyebrow {
