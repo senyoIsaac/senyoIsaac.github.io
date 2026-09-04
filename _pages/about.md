@@ -12,11 +12,8 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;700&display=swap');
 
 .page__content {
-  background:
-    radial-gradient(circle at top left, rgba(101, 214, 255, 0.18), transparent 30%),
-    radial-gradient(circle at bottom right, rgba(255, 180, 84, 0.12), transparent 25%),
-    linear-gradient(180deg, #07161c 0%, #0d1d27 32%, #0b1720 100%);
-  color: #e9f5ff;
+  background: #f6f8fb;
+  color: #1d2b35;
 }
 
 .page__content h1,
@@ -40,14 +37,14 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 }
 
 .engi-shell {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 24px 0 48px;
 }
 
 .hero-panel {
   display: grid;
-  grid-template-columns: 1.35fr 0.85fr;
+  grid-template-columns: 1.45fr 0.95fr;
   gap: 28px;
   align-items: stretch;
   margin: 14px 0 36px;
@@ -59,11 +56,11 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 .feature-card,
 .edu-card,
 .contact-card {
-  background: rgba(15, 29, 39, 0.8);
-  border: 1px solid rgba(168, 203, 224, 0.12);
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
   border-radius: 24px;
-  box-shadow: 0 20px 50px rgba(4, 11, 18, 0.35);
-  backdrop-filter: blur(8px);
+  box-shadow: 0 12px 30px rgba(10, 18, 28, 0.08);
+  backdrop-filter: none;
 }
 
 .hero-copy {
@@ -88,13 +85,13 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
   font-size: clamp(2.5rem, 4vw, 4.2rem);
   line-height: 1.02;
   letter-spacing: -0.05em;
-  color: #f3f8ff;
+  color: #0d1b27;
 }
 
 .hero-copy .lead {
   margin: 0;
   max-width: 720px;
-  color: #d2e8f2;
+  color: #3f5366;
   font-size: 1.08rem;
   line-height: 1.8;
 }
