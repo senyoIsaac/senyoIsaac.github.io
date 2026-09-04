@@ -12,10 +12,8 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;700&display=swap');
 
 .page__content {
-  background:
-    radial-gradient(circle at top left, rgba(143, 227, 255, 0.22), transparent 22%),
-    linear-gradient(180deg, #f5f7f8 0%, #eef2f5 100%);
-  color: #1b2430;
+  background: #f3f5f4;
+  color: #1d2730;
 }
 
 .page__content h1,
@@ -24,14 +22,12 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 .page__content h4,
 .page__content .brand,
 .page__content .stat-value,
-.page__content .tag {
+.page__content .eyebrow {
   font-family: 'Space Grotesk', sans-serif;
 }
 
 .page__content p,
 .page__content li,
-.page__content td,
-.page__content th,
 .page__content a,
 .page__content .btn,
 .page__content .nav-link {
@@ -39,7 +35,7 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 }
 
 .engi-shell {
-  max-width: 1560px;
+  max-width: 1680px;
   margin: 0 auto;
   padding: 0 28px 48px;
 }
@@ -48,54 +44,46 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 84px;
-  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
-  margin-bottom: 6px;
-  padding-top: 4px;
+  min-height: 78px;
+  border-bottom: 1px solid rgba(17, 24, 39, 0.08);
+  padding: 10px 0 12px;
 }
 
 .brand {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: 700;
-  letter-spacing: 0.1em;
-  color: #141d27;
+  letter-spacing: 0.18em;
+  color: #111827;
 }
 
 .nav {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 28px;
   flex-wrap: wrap;
 }
 
 .nav-link {
-  color: #374253;
-  font-size: 0.96rem;
+  color: #3d4a57;
   text-decoration: none;
-  opacity: 0.8;
+  font-size: 0.92rem;
 }
 
 .nav-link:hover {
   text-decoration: none;
-  opacity: 1;
+  color: #111827;
 }
 
 .layout {
   display: grid;
-  grid-template-columns: 280px minmax(0, 1.2fr) 280px;
+  grid-template-columns: 300px minmax(0, 1fr);
   gap: 0;
-  min-height: calc(100vh - 90px);
-}
-
-.sidebar,
-.main-panel,
-.focus-panel {
-  min-height: 100%;
+  min-height: calc(100vh - 100px);
 }
 
 .sidebar {
-  padding: 28px 26px 24px 0;
-  border-right: 1px solid rgba(15, 23, 42, 0.08);
+  border-right: 1px solid rgba(17, 24, 39, 0.08);
+  padding: 28px 24px 0 0;
 }
 
 .profile-card {
@@ -107,143 +95,110 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 }
 
 .profile-avatar {
-  width: 152px;
-  height: 152px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;
-  border: 3px solid rgba(15, 23, 42, 0.08);
-  box-shadow: 0 10px 22px rgba(15, 23, 42, 0.08);
+  border: 1px solid rgba(17, 24, 39, 0.08);
+  box-shadow: 0 10px 24px rgba(17, 24, 39, 0.08);
   margin-bottom: 18px;
 }
 
 .profile-avatar img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;
 }
 
 .profile-name {
   margin: 0 0 8px;
-  font-size: 1.05rem;
-  color: #1d2b35;
+  font-size: 1.18rem;
+  color: #111827;
 }
 
 .profile-role {
   margin: 0;
-  color: #606f7d;
-  line-height: 1.6;
   font-size: 0.9rem;
+  line-height: 1.7;
+  color: #4d5c6d;
 }
 
 .profile-meta {
-  list-style: none;
-  padding: 0;
-  margin: 18px 0 0;
   width: 100%;
+  margin: 22px 0 0;
+  padding: 0;
+  list-style: none;
   text-align: left;
 }
 
 .profile-meta li {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin: 10px 0;
-  color: #32404d;
+  position: relative;
+  padding-left: 18px;
+  margin: 12px 0;
+  color: #344251;
   font-size: 0.92rem;
 }
 
 .profile-meta li::before {
   content: "•";
-  color: #2f495d;
-  font-size: 1.1rem;
-  line-height: 1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #111827;
 }
 
 .main-panel {
-  padding: 24px 42px 0 42px;
-  border-right: 1px solid rgba(15, 23, 42, 0.08);
-}
-
-.micro-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
-  margin-top: 30px;
-}
-
-.micro-card {
-  background: #fff;
-  border: 1px solid rgba(17, 24, 39, 0.06);
-  border-radius: 16px;
-  padding: 16px 14px;
-}
-
-.micro-card span {
-  display: block;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #5d6d7d;
-}
-
-.micro-card strong {
-  display: block;
-  margin-top: 8px;
-  color: #151d29;
-  font-size: 1.1rem;
+  padding: 26px 28px 0 42px;
 }
 
 .hero-copy {
-  padding-top: 12px;
+  max-width: 980px;
+  padding-top: 18px;
 }
 
-.hero-copy .eyebrow {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 42px;
-  height: 12px;
+.eyebrow {
+  display: inline-block;
+  width: 52px;
+  height: 10px;
   border-radius: 999px;
-  background: linear-gradient(90deg, #111827, #4a5a6b);
-  margin-bottom: 22px;
-  position: relative;
-  vertical-align: middle;
+  background: linear-gradient(90deg, #111827, #596b7d);
+  margin-bottom: 20px;
 }
 
 .hero-copy h1 {
   margin: 0;
-  font-size: clamp(3.3rem, 5vw, 7rem);
-  line-height: 0.9;
-  letter-spacing: -0.065em;
+  font-size: clamp(3.1rem, 5vw, 7rem);
+  line-height: 0.88;
+  letter-spacing: -0.07em;
   color: #111827;
 }
 
 .hero-copy .lead {
-  margin-top: 22px;
-  max-width: 660px;
-  color: #333d49;
-  font-size: 1.05rem;
-  line-height: 1.75;
+  margin-top: 24px;
+  max-width: 700px;
+  color: #36455c;
+  font-size: 1.08rem;
+  line-height: 1.8;
 }
 
 .cta-row {
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
-  margin-top: 26px;
+  margin-top: 28px;
 }
 
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 150px;
-  padding: 14px 20px;
+  min-width: 160px;
+  padding: 14px 18px;
   border-radius: 12px;
   font-weight: 700;
   text-decoration: none;
-  transition: all 0.18s ease;
+  transition: transform 0.18s ease;
 }
 
 .btn:hover {
@@ -253,117 +208,65 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 
 .btn-primary {
   background: linear-gradient(135deg, #8fe3ff, #8de7c0);
-  color: #11222d;
+  color: #111827;
 }
 
 .btn-secondary {
-  border: 1px solid rgba(15, 23, 42, 0.08);
-  background: rgba(255, 255, 255, 0.4);
-  color: #1b2430;
+  border: 1px solid rgba(17, 24, 39, 0.08);
+  background: rgba(255, 255, 255, 0.5);
+  color: #111827;
 }
 
-.stat-grid {
+.stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
-  margin-top: 28px;
+  margin-top: 34px;
+  max-width: 880px;
 }
 
-.stat-item {
-  background: rgba(17, 24, 39, 0.9);
-  color: #ffffff;
+.stat {
+  background: #121a24;
+  color: #fff;
   border-radius: 18px;
-  padding: 18px 18px 22px;
-  min-height: 116px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 18px 18px 20px;
 }
 
 .stat-value {
-  font-size: 2.3rem;
+  display: block;
+  font-size: 2.2rem;
   line-height: 1;
   color: #ffffff;
   margin-bottom: 8px;
 }
 
-.stat-item span:last-child {
-  color: rgba(255,255,255,0.8);
+.stat-label {
+  color: rgba(255, 255, 255, 0.8);
   font-size: 0.82rem;
 }
 
-.focus-panel {
-  padding: 24px 0 0 28px;
-}
-
-.focus-card {
-  margin-top: 120px;
-  background: linear-gradient(180deg, rgba(17,24,39,0.95), rgba(27,39,52,0.94));
-  border-radius: 26px;
-  padding: 26px 22px 22px;
-  color: #eaf5ff;
-  box-shadow: 0 18px 36px rgba(17, 24, 39, 0.12);
-  border: 1px solid rgba(143, 227, 255, 0.18);
-}
-
-.focus-card strong {
-  display: block;
-  margin-bottom: 18px;
-  color: #cfeaff;
-  font-size: 0.92rem;
-  letter-spacing: 0.02em;
-}
-
-.focus-card h3 {
-  margin: 0;
-  font-size: clamp(1.4rem, 1.6vw, 2.2rem);
-  line-height: 1.2;
-  color: #ebf7ff;
-}
-
-.focus-card ul {
-  list-style: none;
-  padding: 0;
-  margin: 18px 0 0;
-}
-
-.focus-card li {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin: 10px 0;
-  color: #d7ebf9;
-  font-size: 0.92rem;
-}
-
-.focus-card li::before {
-  content: "";
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: linear-gradient(135deg, #8fe3ff, #8de7c0);
-  box-shadow: 0 0 0 4px rgba(143, 227, 255, 0.12);
-}
-
-@media (max-width: 1024px) {
+@media (max-width: 900px) {
   .layout {
     grid-template-columns: 1fr;
   }
 
-  .sidebar,
-  .main-panel,
-  .focus-panel {
-    border: none;
-    padding-left: 0;
+  .sidebar {
+    border-right: none;
+    border-bottom: 1px solid rgba(17, 24, 39, 0.08);
     padding-right: 0;
+    padding-bottom: 18px;
   }
 
-  .focus-card {
-    margin-top: 20px;
+  .main-panel {
+    padding-left: 0;
+  }
+
+  .stats {
+    grid-template-columns: 1fr;
   }
 }
 
-@media (max-width: 680px) {
+@media (max-width: 600px) {
   .engi-shell {
     padding-left: 16px;
     padding-right: 16px;
@@ -371,27 +274,13 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
 
   .topbar {
     flex-direction: column;
-    justify-content: center;
-    height: auto;
     align-items: flex-start;
-    padding: 20px 0;
     gap: 12px;
+    padding-top: 18px;
   }
 
   .nav {
-    gap: 14px 20px;
-  }
-
-  .stat-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .layout {
-    display: block;
-  }
-
-  .main-panel {
-    padding: 18px 0 0;
+    gap: 12px 18px;
   }
 }
 </style>
@@ -416,14 +305,13 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
         </div>
 
         <h2 class="profile-name">Isaac Senyoh</h2>
-        <p class="profile-role">Assistant Bridge Engineer, CPLEX<br />Engineering Division, GH</p>
+        <p class="profile-role">Assistant Bridge Engineer<br />CPLEX Engineering Division, Ghana</p>
 
         <ul class="profile-meta">
-          <li>Asuofia, Kumasi, Ghana</li>
+          <li>Asuofia, Kumasi</li>
           <li>CPLEX Company Limited</li>
-          <li>Email</li>
-          <li>GitHub</li>
-          <li>LinkedIn</li>
+          <li>isaacsenyoh9@gmail.com</li>
+          <li>github.com/senyoIsaac</li>
         </ul>
       </div>
     </aside>
@@ -436,8 +324,8 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
         <p class="lead">
           I am Isaac Senyoh, a graduate civil engineer working at the intersection of structural engineering,
           computational modeling, machine learning, and intelligent monitoring systems. My work focuses on
-          creating safer, more adaptive, and more sustainable infrastructure through data-driven design and
-          advanced sensing technologies.
+          resilient infrastructure, data-driven design, and technology-enabled decision-making for safer and
+          more sustainable systems.
         </p>
 
         <div class="cta-row">
@@ -445,49 +333,22 @@ social_image: "https://senyoIsaac.github.io/images/headshot.jpg"
           <a class="btn btn-secondary" href="#research">Explore research</a>
         </div>
 
-        <div class="stat-grid">
-          <div class="stat-item">
+        <div class="stats">
+          <div class="stat">
             <span class="stat-value">4+</span>
-            <span>Core research domains</span>
+            <span class="stat-label">Core research areas</span>
           </div>
-          <div class="stat-item">
+          <div class="stat">
             <span class="stat-value">AI</span>
-            <span>for infrastructure intelligence</span>
+            <span class="stat-label">Infrastructure intelligence</span>
           </div>
-          <div class="stat-item">
+          <div class="stat">
             <span class="stat-value">Sustainability</span>
-            <span>in engineering practice</span>
-          </div>
-        </div>
-
-        <div class="micro-grid">
-          <div class="micro-card">
-            <span>Current</span>
-            <strong>Bridge engineering</strong>
-          </div>
-          <div class="micro-card">
-            <span>Method</span>
-            <strong>AI + sensing</strong>
-          </div>
-          <div class="micro-card">
-            <span>Goal</span>
-            <strong>Resilient systems</strong>
+            <span class="stat-label">Engineering practice</span>
           </div>
         </div>
       </section>
     </main>
-
-    <aside class="focus-panel">
-      <div class="focus-card">
-        <strong>Focus</strong>
-        <h3>Structural health monitoring, digital twins, and AI-driven resilience.</h3>
-        <ul>
-          <li>Damage identification</li>
-          <li>Predictive maintenance</li>
-          <li>Decision-support systems</li>
-        </ul>
-      </div>
-    </aside>
   </div>
 </div>
 
